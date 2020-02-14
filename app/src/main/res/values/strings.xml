@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="versions">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice cream sandwich</item>
+        <item>Jelly bean</item>
+        <item>kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Android</item>
+    </string-array>
+</resources>
